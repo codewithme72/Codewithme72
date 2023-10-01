@@ -8,9 +8,10 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate with you
-<!-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... -->
 - 📫 How to reach me: on Instagram- @Codewithme07
+
+- <!-- 🤔 I’m looking for help with ... 
+- 💬 Ask me about ... -->
 
 
 
