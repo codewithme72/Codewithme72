@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">🔭 I’m currently working on improving Web Development skills.<br>    🌱 I’m currently learning Full Stack Development.<br>    🤔 I’m looking for help with Web Development.<br>    💬 Ask me about Web Development.<br>    📫 How to reach me: Insta- Codewithme_07<br>    ⚡ Fun fact: Coders are very hard working.</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codewithme72&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithme72&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -9,7 +13,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
+<p align="left">Language and Tools:</p>
 
 ###
 
@@ -33,6 +37,10 @@
 
 ###
 
+<p align="left">Connects Me:</p>
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <a href="https://www.instagram.com/codewithme_07/" target="_blank">
@@ -46,14 +54,13 @@
 
 ###
 
-<img src=".github/workflows/snake.yml" alt="Snake animation" />
+<br clear="both">
+
+<img align="right" height="150" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithme72&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithme72&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/codewithme72/codewithme72/output/snake.svg" alt="Snake animation" />
 
 ###
 
