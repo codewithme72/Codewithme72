@@ -46,7 +46,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/codewithme72/codewithme72/output/snake.svg" alt="Snake animation" />
+<img src=".github/workflows/snake.yml" alt="Snake animation" />
 
 ###
 
